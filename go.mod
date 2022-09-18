@@ -1,3 +1,3 @@
 module github.com/bysensa/tinkoff_acquiring
 
-go 1.13
+go 1.17
